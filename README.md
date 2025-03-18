@@ -159,6 +159,8 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 ## 2025-3.1
 | Name                 | Fun Fact |
 | -------------------- | --- |
+| Chandhu Bhumireddy   | I have a habit of sneaking chocolates |
 | Margo Potylitsyna | I went downtown yesterday to see the green river |
 | Aldo Portillo | the patent for the fire hydrant was lost in a fire |
 | Federico Hernandez Nater | I appear briefly in a Bad Bunny music video |
+
